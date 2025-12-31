@@ -1,7 +1,11 @@
 # AES Image Encryptor 🔐
 
 A browser-based image encryption and decryption tool built using **pure frontend technologies** and the **Web Crypto API**.
-**Link:** https://prkh05.github.io/AES-Encryptor/
+## 🚀 Live Demo
+
+This project is deployed using **GitHub Pages** at:
+https://prkh05.github.io/AES-Encryptor/
+
 
 ## 🚀 Features
 - Encrypt and decrypt images entirely on the client-side
